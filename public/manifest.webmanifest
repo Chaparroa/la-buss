@@ -1,0 +1,26 @@
+{
+  "name": "LA Busss",
+  "short_name": "LA Busss",
+  "start_url": "/la-busss/",
+  "scope": "/la-busss/",
+  "display": "standalone",
+  "background_color": "#1E1E1E",
+  "theme_color": "#F27A00",
+  "icons": [
+    {
+      "src": "/la-busss/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/la-busss/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/la-busss/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
